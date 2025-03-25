@@ -1,0 +1,25 @@
+# Carpeta donde guardas tu dataset
+dataset/
+
+# Archivos de modelos entrenados o checkpoints
+*.pth
+*.pt
+checkpoints/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de tu IDE
+.vscode/
+.idea/
+
+# Carpeta del entorno virtual
+venv/
+.env/
+
+# Archivos de logs generados por tu programa
+*.log
+
+# Carpetas donde guardas resultados de tus experimentos
+results/
