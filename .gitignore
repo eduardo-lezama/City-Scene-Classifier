@@ -1,5 +1,6 @@
 # Carpeta donde guardas tu dataset
 dataset/
+logs/
 
 # Archivos de modelos entrenados o checkpoints
 *.pth
