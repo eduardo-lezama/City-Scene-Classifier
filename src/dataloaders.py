@@ -26,7 +26,7 @@ def create_dataloaders_random(path, transformations, batch_size, split: list = [
     val_len = int(dataset_len * split[1])
     test_len = int(dataset_len * split[2])
 
-    #Create the splits 
+    #Create the splits of dataset
     tr_ds, val_ds, test_ds = random_split(dataset, lengths=[train_len, val_len, test_len])
 
     #Create the dataloaders
