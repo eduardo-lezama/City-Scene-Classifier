@@ -5,7 +5,7 @@ logs/
 # Archivos de modelos entrenados o checkpoints
 *.pth
 *.pt
-checkpoints/
+
 
 # Archivos temporales del sistema operativo
 .DS_Store
@@ -14,6 +14,7 @@ Thumbs.db
 # Archivos de configuración de tu IDE
 .vscode/
 .idea/
+__pycache__/
 
 # Carpeta del entorno virtual
 venv/
@@ -23,4 +24,7 @@ venv/
 *.log
 
 # Carpetas donde guardas resultados de tus experimentos
-results/
+saved_models/
+
+# Carpeta con jupyter original y backup
+jupyter_backups/
