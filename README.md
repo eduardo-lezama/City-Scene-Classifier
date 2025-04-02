@@ -36,6 +36,7 @@ Main metrics results:
 > *Use of scikit-learn confusion matrix function to generate a confusion matrix.* 
 <br>
 <br>
+
 ### **Metrics and hyperparameters monitoring using TensorBoard** 🔱
 
 ![Metrics tracking](./assets/tensorboard_scalars.png)
