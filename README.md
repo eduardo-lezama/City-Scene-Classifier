@@ -90,6 +90,8 @@ In this project, we will take you step-by-step through the process of creating t
 ## 📊 Dataset
 This project uses the dataset of [Aerial Images of Cities](https://www.kaggle.com/datasets/yessicatuteja/skycity-the-city-landscape-dataset) from Kaggle.
 
+It is a curated dataset, bringing together urban landscapes from the publicly available AID and NWPU-Resisc45 datasets. Featuring 10 distinct city categories with 800 images each, all at a resolution of 256x256 pixels.
+
 Download it from the above link and extract in the root  folder to work with the project (you can call it `dataset` for instance)
 
 ---
