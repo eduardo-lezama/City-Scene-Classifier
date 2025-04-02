@@ -117,7 +117,7 @@ Aerial-Scene-Classifier/
 ## ✨ **Main features of the project**
 - **Clear modularization**: The project is divided into logical sections for ease of use and understanding.
 - **Easy training and real-time logging**: Configuraciones predefinidas para entrenar el modelo en nuevos datasets que sigan la misma estructuración de carpetas que el dataset original. Además es posible hacer el seguimiento en tiempo real del entrenamiento con TensorBoard
-- **Great classification accuracy( 95%+)**: The model is able to classify the 10 scene with great accuracy.
+- **Great classification accuracy( 93%+)**: The model is able to classify the 10 scene with great accuracy.
 - **Simple execution and results visualization**: The project can be followed step-by-step using the main jupyter notebook.
 
 ---
