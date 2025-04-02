@@ -18,7 +18,7 @@ Main metrics results:
 
 ### **Visual prediction of the model** 📸
 ![Great and accurate visual classification](./assets/correct_classification.png)
-> *Correct classification of sample images from test dataset"*
+> *Correct classification of sample images from test dataset*
 <br>
 <br>
 
@@ -49,7 +49,7 @@ Main metrics results:
 
 ---
 
-## 📖 **Project Walkthrough **
+## 📖 **Project Walkthrough**
 
 
 In this project, we will take you step-by-step through the process of creating this classifier using PyTorch, integrate TensorBoard and analize using Captum. Below is a summary of the key steps:
@@ -122,7 +122,7 @@ Aerial-Scene-Classifier/
 
 ---
 
-## 🛠️ **Libs, Frameworks and Technologies **
+## 🛠️ **Libs, Frameworks and Technologies**
 - **Python**: Main programming language.  
 
 - **Jupyter Notebooks**: For workflow organization.  
