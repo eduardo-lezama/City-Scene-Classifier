@@ -101,22 +101,23 @@ Download it from the above link and extract in the root  folder to work with the
 The project is organized in a modular way imported in the main Jupyter Notebook to improve code readability and maintainability.
 ```markdown
 Aerial-Scene-Classifier/
-├── assets/              # Images for the README file
-├── src/                 # Modular code used in the project
-│   ├── __init__.py      # Init file
+├── assets/                           # Images for the README file
+├── src/                              # Modular code used in the project
+│   ├── __init__.py                   # Init file
 │   ├── dataloaders.py  
 │   ├── dataset.py
 │   ├── inference.py
 │   ├── training.py
 │   └── visualization.py
-├── test_images_GradCAM  # Images used in the main file as samples
-├── README.md            # Documentation of the project
-└── requirements.txt     # Dependencies
+├── test_images_GradCAM               # Images used in the main file as samples
+├── README.md                         # Documentation of the project
+├── requirements.txt                  # Dependencies
+└── 01_city_image_classifier_main     # Main notebook for the walktrough
 ```
 
 ## ✨ **Main features of the project**
 - **Clear modularization**: The project is divided into logical sections for ease of use and understanding.
-- **Easy training and real-time logging**: Configuraciones predefinidas para entrenar el modelo en nuevos datasets que sigan la misma estructuración de carpetas que el dataset original. Además es posible hacer el seguimiento en tiempo real del entrenamiento con TensorBoard
+- **Easy training and real-time logging**: Predefined settings to train the model on new datasets that follow the same folder structuring as the original dataset. In addition, it is possible to monitor the training in real time with TensorBoard.
 - **Great classification accuracy( 93%+)**: The model is able to classify the 10 scene with great accuracy.
 - **Simple execution and results visualization**: The project can be followed step-by-step using the main jupyter notebook.
 
