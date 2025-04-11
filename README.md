@@ -150,7 +150,7 @@ Aerial-Scene-Classifier/
 ### **1. Clone the repository**
 Clone the project in your local machine:
 ```bash
-git clone https://github.com/tu-usuario/City-Scene-Classifier.git
+git clone https://github.com/eduardo-lezama/Aerial-Scene-Image-Classifier.git
 ```
 ### **2. Download the dataset**
 The dataset required for this project is hosted in Kaggle. Follow these steps to download it:
